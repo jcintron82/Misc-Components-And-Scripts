@@ -25,5 +25,5 @@ const observer = new IntersectionObserver((entries, observer ) => {
  , observerOptions)
 
 //Call the observe function on the observed object
-numcountObserver.observe(posts)
+observer.observe(observedObject)
  
