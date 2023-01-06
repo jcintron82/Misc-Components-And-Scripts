@@ -1,4 +1,4 @@
-# Random-Components-And-Scripts
+# Misc-Components-And-Scripts
 
 This is a repository featuring blocks of reusable code I found useful to save during builds. Code here originates from problems that may crop up often in different projects. Having this personally written, reusable code on hand helps streamline output and consequently, provide value to clients.
 
